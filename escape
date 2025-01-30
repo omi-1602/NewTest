@@ -1,0 +1,12 @@
+[1mdiff --git a/hello.py b/hello.py[m
+[1mindex 3feccef..f5d6af7 100644[m
+[1m--- a/hello.py[m
+[1m+++ b/hello.py[m
+[36m@@ -1,2 +1,4 @@[m
+ print("hello world")[m
+[31m-print("new feature")[m
+\ No newline at end of file[m
+[32m+[m[32mprint("new feature")[m
+[32m+[m[32ma = int(input("Enter a number:"))[m
+[32m+[m[32mprint(a)[m
+\ No newline at end of file[m
